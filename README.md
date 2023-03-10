@@ -12,7 +12,7 @@ A theoretical physicist working as a data scientist.
 - 📫 I got a bachelor (Peru) and a master degree (Brazil) in physics. 
 - ✨ Working experience in telecom, healthcare, atmospheric research, particle physics, media and entertainment.
 
-More about me in https://www.linkedin.com/in/javierpachas/
+Find me on [Linkedin](https://www.linkedin.com/in/javierpachas/)
 
 <!-- 
 - 🤔 I’m looking for help with ...
