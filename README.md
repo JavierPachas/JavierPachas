@@ -6,7 +6,7 @@ A theoretical physicist working as a data scientist.
 -->
 
 - 🔭 I’m currently working on audience clusterization using Python and Google Cloud.
-- 🌱 I’m currently learning NLP and Deep Learning.
+- :sunny: I’m currently learning NLP and Deep Learning.
 - 🚀 I’m looking to collaborate on AI/ML projects.
 - ⚡ I'm currently studying an MBA and a MIT MicroMaster in Statistics and Data Science.
 - 👉 I got a bachelor (Peru) and a master degree (Brazil) in physics. 
