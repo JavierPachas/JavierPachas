@@ -1,54 +1,45 @@
-<!--
-**JavierPachas/JavierPachas** is a 📫💬 ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Javier Pachas
 
+**Data Scientist · AI Engineer · EdTech Co-founder**
 
-<!-- 
-- 🤔 I’m looking for help with ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javierpachas-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/javierpachas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-javierpachas.github.io-000?style=flat&logo=github)](https://javierpachas.github.io)
+[![Consulting](https://img.shields.io/badge/AI%20Consulting-Services-FF6B35?style=flat)](https://javierpachas.github.io/consulting.html)
 
+---
 
-- 😄 Pronouns: ...
+## Stack
 
--->
-# Hi, I'm Javier Pachas 👋
+**Languages** · Python · SQL · TypeScript  
+**ML/AI** · scikit-learn · PyTorch · LangChain · RAG · LLMs · XGBoost  
+**Data** · Pandas · dbt · BigQuery · Databricks · Spark  
+**Cloud & Infra** · GCP · AWS · Vercel · Supabase · Docker  
+**Tools** · Git · Claude Code · Jupyter · Airflow
 
-**AI Product Manager | Lead Data Scientist | MSc Physics**
+---
 
-I build AI-powered products and data-driven solutions. Currently leading AI strategy at an EdTech startup where I've scaled a RAG-powered platform to 550+ users.
+## Projects
 
-## What I Do
+**[EdBot](https://github.com/JavierPachas)** — AI university admissions prep  
+Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 550+ users
 
-- **AI Product Development**: Define roadmaps, architect solutions (RAG, LLMs, recommendation systems), and ship products from 0→1
-- **Data Science & ML**: Python, SQL, predictive modeling, optimization, cloud deployment (GCP, AWS, Databricks)
-- **End-to-End Execution**: From problem framing and experimentation to production deployment and business impact
+**CGR (Peruvian Government)** — ML bid evaluation system  
+Reduced megaproject evaluation time from months → minutes
+
+**Clínica Internacional** — Patient no-show prediction  
+−3pp no-show rate · XGBoost + ops integration
+
+**P&G LATAM** — Retail forecasting automation  
+100+ markets · migrated to real-time dashboards
+
+---
 
 ## Background
 
-- 7+ years delivering ML/AI solutions across **FMCG** (P&G), **healthcare** (Clínica Internacional), **telecom** (Telefónica), **government** (CGR), and **media** (CRP Radios)
-- MSc Physics from PUC-Rio (Brazil) analyzing CERN particle collision data
-- MIT MicroMaster in Statistics and Data Science
-- Fluent in English, Portuguese, Spanish
+MSc Physics · PUC-Rio (CERN data analysis)  
+MIT MicroMaster · Statistics & Data Science  
+EN / ES / PT
 
-## Recent Work
+---
 
-**EdBot** – AI-powered university admissions prep platform  
-Built RAG recommendation systems, technical architecture on Vercel/Supabase, scaled to 550+ active users
-
-**P&G** – Analytics & Insights Senior Manager  
-Led LATAM retail analytics strategy, automated forecasting across 100+ markets, migrated reports to real-time systems
-
-**CGR** – ML & BI Consultant  
-Designed ML solution for megaproject bid evaluation, reducing decision time from months to minutes
-
-**Clínica Internacional** – Lead Data Scientist  
-Reduced patient no-shows by 3pp ($XM savings) 
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/javierpachas)
-- 🌐 [Portfolio](https://javierpachas.github.io)
-- 🤝 [AI Consulting Services](https://javierpachas.github.io/consulting.html)
-- 📧 javalepc@gmail.com
-
-Open to collaborating on AI/ML projects, GenAI applications, or discussing data science challenges.
-
+📧 javalepc@gmail.com
