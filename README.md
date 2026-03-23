@@ -1,6 +1,6 @@
 # Javier Pachas
 
-**Data Scientist · AI Engineer · EdTech Co-founder**
+**AI Engineer · Data Scientist · EdTech Co-founder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-javierpachas-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/javierpachas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-javierpachas.github.io-000?style=flat&logo=github)](https://javierpachas.github.io)
