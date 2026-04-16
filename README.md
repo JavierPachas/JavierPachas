@@ -20,7 +20,7 @@
 
 ## Projects
 
-**[EdBot]([https://github.com/JavierPachas](https://edbot-uni.vercel.app/))** — AI university admissions prep  
+**[EdBot]([https://edbot-uni.vercel.app/])** — AI university admissions prep  
 Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 550+ users
 
 **CGR (Peruvian Government)** — ML bid evaluation system  
