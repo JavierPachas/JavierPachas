@@ -20,8 +20,8 @@
 
 ## Projects
 
-**[EdBot]([https://edbot-uni.vercel.app/])** — AI university admissions prep  
-Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 550+ users
+**[EdBot](https://edbot-uni.vercel.app/)** — AI university admissions prep  
+Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 650+ users
 
 **CGR (Peruvian Government)** — ML bid evaluation system  
 Reduced megaproject evaluation time from months → minutes
