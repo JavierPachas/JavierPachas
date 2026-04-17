@@ -23,14 +23,14 @@
 **[EdBot](https://edbot-uni.vercel.app/)** — AI university admissions prep  
 Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 650+ users
 
+**P&G LATAM** — Retail forecasting automation  
+100+ markets · migrated to real-time dashboards
+
 **CGR (Peruvian Government)** — ML bid evaluation system  
 Reduced megaproject evaluation time from months → minutes
 
 **Clínica Internacional** — Patient no-show prediction  
 −3pp no-show rate · XGBoost + ops integration
-
-**P&G LATAM** — Retail forecasting automation  
-100+ markets · migrated to real-time dashboards
 
 ---
 
