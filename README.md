@@ -20,7 +20,7 @@
 
 ## Projects
 
-**[EdBot](https://edbot-uni.vercel.app/)** — AI university admissions prep  
+**[EdBot](https://edbotlab.com)** — AI university admissions prep  
 Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 650+ users
 
 **P&G LATAM** — Retail forecasting automation  
