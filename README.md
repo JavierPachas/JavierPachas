@@ -21,7 +21,7 @@
 ## Projects
 
 **[EdBot](https://edbotlab.com)** — AI university admissions prep  
-Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 650+ users
+Next.js + Supabase monorepo · RAG pipelines · tool-calling agents · 800+ users
 
 **P&G LATAM** — Retail forecasting automation  
 100+ markets · migrated to real-time dashboards
